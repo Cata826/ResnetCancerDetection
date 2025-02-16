@@ -2,7 +2,11 @@
 
 ## Overview
 This project applies deep learning techniques, specifically Convolutional Neural Networks (CNNs), for the automated diagnosis of skin cancer. Utilizing TensorFlow and Keras, the project leverages pretrained models like ResNet50 and VGG19, which are fine-tuned for classifying various types of skin lesions from dermatoscopic images.
+
+
 ![skin](resnet1.png)
+
+
 ## Key Features
 - **Pretrained CNN Models**: Uses ResNet50 and VGG19 for robust feature extraction and classification accuracy.
 - **Data Augmentation**: Enhances the model's ability to generalize by introducing variations in the training data, simulating real-world conditions.
